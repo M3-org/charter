@@ -21,7 +21,7 @@ The web has a lot of the right properties, but it isn't a "three-dimensional wor
 
 > So it's VR? AR? 2D?
 
-A three-dimentsional world can be viewed through many lenses. It can be on a flat screen, attached to real locations, or completely virtual. Interoperability means these should all talk to each other.
+A three-dimensional world can be viewed through many lenses. It can be on a flat screen, attached to real locations, or completely virtual. Interoperability means these should all talk to each other.
 
 > So it's Facebook Horizon/Steam/Oculus/Magic Leap?
 
