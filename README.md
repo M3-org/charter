@@ -2,7 +2,7 @@
 
 ## Who we are
 
-> We are a group of makers working to build a practical "Metaverse" into existence.
+> We are a group of makers working to reify a practical "Metaverse".
 > We are doing this through open products, content production, education, and fundraising.
 
 Let's break that down.
